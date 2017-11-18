@@ -1,8 +1,6 @@
 title: Hello, world! I'm Skyler Rydberg
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  This is my first attempt at blogging with Jekyll and github
 permalink: ':title/'
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
@@ -10,15 +8,15 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # Author Settings
 author: Skyler Rydberg # add your name
 author-img: Sky_Professional_Pic.jpg # add your photo
-about-author: I'm an Electrical Engineer emphasizing embedded development and DSP. # add description
-twitter: # add your Twitter handle
-facebook: # add your Facebook handle
+about-author: I'm an Electrical Engineer interested in embedded development and DSP. # add description
+twitter: skyrydberg
+facebook: skyrydberg
 github: skyrydberg # add your Github handle
-linkedin: # add your Linkedin handle
-email: # add your Email address
+linkedin: srydberg91
+email: skyrydberg@yahoo.com
 
 # Disqus
-discus-identifier: mr-brown # add your discus identifier
+discus-identifier: test-67iaa5dgt3 # add your discus identifier
 
 # Tracker
 analytics: # Google Analytics
