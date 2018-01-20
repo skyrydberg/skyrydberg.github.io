@@ -1,0 +1,12 @@
+---
+layout: page
+title: "Learning Python the Hard Way"
+date: 2018-01-20 14:04:00 +0300
+description: I'm working through Learn Python the Hard Way. # Add post description (optional)
+img:  LPTHW-3e.jpg
+---
+I'm starting Zed Shaw's Learn Python the Hard Way today. I have a background in C/C++ programming, as well as a working knowledge of Java, C#, VBA and Matlab. I'm mostly doing this as a fun exercise to teach myself the basics of Python.
+
+If you'd like to see the lessons my code is derived from you can find it [here](https://learnpythonthehardway.org/book/).
+
+I will also be posting info about how I set up the github environment.
