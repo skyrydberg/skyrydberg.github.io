@@ -8,7 +8,9 @@ img:  LPTHW-3e.jpg
 I'm starting Zed Shaw's *Learn Python the Hard Way* today. I have a background in C/C++ programming, as well as a working 
 knowledge of Java, C#, VBA and Matlab. I'm mostly doing this as a fun exercise to teach myself the basics of Python.
 
-If you'd like to see the lessons my code is derived from you can find it [here](https://learnpythonthehardway.org/book/).
+My code repo is here: [https://github.com/skyrydberg/LPTHW](https://github.com/skyrydberg/LPTHW)
+
+If you'd like to see the lessons my code is derived from you can find them [here](https://learnpythonthehardway.org/book/).
 
 I will also be posting info about how I set up the github environment.
 
@@ -22,7 +24,7 @@ for his readers to get out of his work.
 
 Finally, I know that *Learn Python the Hard Way* is free online, heck I've linked it from this page, but guys like Zed 
 can only produce wonderful content like this if people support their work so please consider buying a copy, it's available
-on his site as well as on:
+on [his site](https://learnpythonthehardway.org/book/) as well as on:
 
 [Amazon](http://bit.ly/amznlpthw) 
 
