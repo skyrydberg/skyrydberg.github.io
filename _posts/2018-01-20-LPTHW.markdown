@@ -1,0 +1,31 @@
+---
+layout: page
+title: "Learning Python the Hard Way"
+date: 2018-01-20 14:04:00 +0300
+description: I'm working through Learn Python the Hard Way. # Add post description (optional)
+img:  LPTHW-3e.jpg
+---
+I'm starting Zed Shaw's *Learn Python the Hard Way* today. I have a background in C/C++ programming, as well as a working 
+knowledge of Java, C#, VBA and Matlab. I'm mostly doing this as a fun exercise to teach myself the basics of Python.
+
+My code repo is here: [https://github.com/skyrydberg/LPTHW](https://github.com/skyrydberg/LPTHW)
+
+If you'd like to see the lessons my code is derived from you can find them [here](https://learnpythonthehardway.org/book/).
+
+I will also be posting info about how I set up the github environment.
+
+A couple things worth noting right off the bat:
+1. It's called "Learn Python the Hard Way", Zed addresses this in his preface: "The title says it's the hard way to learn 
+to write code but it's actually not. It's only the "hard" way because it uses a technique called instruction."
+2. Since this is meant as an instructional post I will do my best to follow each step Zed presents, even if it's tedious, 
+because in some way thats the point, we learn through repetition and coding is no different in that regard.
+3. Read the section titled "The Hard Way Is Easier", it establishes ground rules and highlights the things Zed is aiming 
+for his readers to get out of his work.
+
+Finally, I know that *Learn Python the Hard Way* is free online, heck I've linked it from this page, but guys like Zed 
+can only produce wonderful content like this if people support their work so please consider buying a copy, it's available
+on [his site](https://learnpythonthehardway.org/book/) as well as on:
+
+[Amazon](http://bit.ly/amznlpthw) 
+
+[Barnes & Noble](http://bit.ly/bnlpthw)

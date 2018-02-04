@@ -1,0 +1,42 @@
+---
+layout: page
+title: "Learning Python the Hard Way Lessons 0, 1 & 2"
+date: 2018-02-03 14:46:00 +0300
+description: I've started Learning Python the Hard Way # Add post description (optional)
+img:  LPTHW-3e.jpg
+---
+I've combined lessons 0, 1, and 2 into a single post because I view them as a single complete lesson.
+
+# Lesson 0: The Setup
+I use Windows, and honestly if that's a problem you should probably just stop now. I do embedded system design, 
+frequently for systems running Linux or some Linux derived/inspired OS, so I'm familiar and quite proficient 
+with Linux but, as someone who needs remote debugging tools and the ability to support legacy hardware, Windows
+is a great choice because of the support community and the wider availability of enterprise tools. However it's
+largely pointless for me to walk you through the python setup here because Zed does a much better job in 
+lesson 0. One thing worth noting, all the instructions say PowerShell but, besides potentially instruction 11, 
+they are equally applicable to Cmd Prompt, so pick your poison.
+
+I'll link some cheat sheets for Powershell/Command Prompt here later, and maybe even some stuff for bash on 
+linux.
+
+Zed also has you use Atom, this is because it exists for all the different systems he's addressing and will be 
+consistant between them, I'm also using Atom but strongly considered just using Notepad++, do what feels righr, 
+after Lesson 1, it won't matter.
+
+# Lesson 1: A Good First Program
+This is the iconic "Hello World!" program. My committed code can be found here: <insert link to LPTHW github repo>
+I've added comments (which are cover in Lesson 2), to address the study drills and just generally document the 
+code. Hello World is a staple of computer programming courses, I learned it in C/C++, C#, Java, and through a 
+GE Predix course, featuring HTML. The only coding you're not likely to stumble across this in is assembly or an
+HDL course, there you'll just blink lights, or make noise through a buzzer. The study drills introduce the 
+concept of comments with the octothorpe (#), because although printing "Hello World" is great, it's not really 
+coding until you can document what the heck you've done.
+
+My Lesson 1 code can be found here: [https://github.com/skyrydberg/LPTHW/tree/master/ex1](https://github.com/skyrydberg/LPTHW/tree/master/ex1)
+
+# Lesson 2: Comments and Pound Characters
+When the extent of your code is just printing static lines of text, the value of a comment is not obvious, 
+however, when you start doing anything more complex than that they become invaluable. The study drills just have 
+you think about your answers to the Lesson 1 drills and then introduce some basic troubleshooting techniques.
+
+My Lesson 2 code can be found here: [https://github.com/skyrydberg/LPTHW/tree/master/ex2](https://github.com/skyrydberg/LPTHW/tree/master/ex2)
